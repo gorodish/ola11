@@ -3,7 +3,7 @@ import React from 'react';
 class RightBox extends React.Component {
   render() {
     return (
-      <div class="box sidebar"></div>
+      <div className="box sidebar"></div>
     );
   }
 }

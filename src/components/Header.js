@@ -7,9 +7,9 @@ class Header extends React.Component {
       <div className="box header">
           <div className="toplinks">
               <ul>
-                  <li><img className="cherrySm" src={cherrySm} /></li>
+                  <li><img className="cherrySm" src={cherrySm} alt="cherry" /></li>
                   <li id="toplinksLog">Login</li>
-                  <li><img className="cherrySm" src={cherrySm} /></li>
+                  <li><img className="cherrySm" src={cherrySm} alt="cherry" /></li>
                   <li id="toplinksReg">Register</li>
               </ul>
           </div>

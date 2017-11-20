@@ -15,18 +15,18 @@ class Content extends React.Component {
                 <li className="searchCity">
                     <h2>Search Nearby</h2>
                 </li>
-                <li className="searchCity"><img src={cherryLg} /></li>
+                <li className="searchCity"><img src={cherryLg} alt="cherry" /></li>
             </ul>
             <ul>
                 <li className="searchCity">
                     <h2>Search City</h2>
                 </li>
                 <li className="searchCity">
-                    <form class="searchBox">
+                    <form className="searchBox">
                         <input type="text" required placeholder="Seville" />
                     </form>
                 </li>
-                <li className="searchCity"><img src={cherryLg} /></li>
+                <li className="searchCity"><img src={cherryLg} alt="cherry" /></li>
             </ul>
         </div>
       </div>
